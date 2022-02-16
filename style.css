@@ -11,7 +11,7 @@ body {
 }
 
 .titulek {
-    background-image: url("/Banner.jpg");
+    background-image: url("./Banner.jpg");
     height: 200px; 
     background-repeat: no-repeat; 
     background-size: cover;
